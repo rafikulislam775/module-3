@@ -1,0 +1,8 @@
+#blog_1 {
+  border-radius: 10px;
+  border-left: dotted 5px;
+  color: rgb(3, 44, 79);
+  margin: auto;
+  padding: 5px;
+  background-color: rgb(219, 125, 125);
+}
