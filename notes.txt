@@ -1,4 +1,5 @@
 echo "# module-3" >> README.md
+use for new repository
 git init
 git add .
 git commit -m "first commit"
@@ -6,7 +7,9 @@ git branch -M main
 git remote add origin https://github.com/rafikulislam775/module-3.git
 git push -u origin master
 
-2nd time for pushing
+use for same repository after 1st time
 git add .
 git commit -m "first commit"
 git push
+
+git clone for others file clone to my pc
